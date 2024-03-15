@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9628d57d8df648e4",
+        "id": "80c9315409e29fe5",
         "type": "tabs",
         "children": [
           {
-            "id": "e86edf618d500a06",
+            "id": "28620b7ba08190a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Linux 扫盲.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/Linux 扫盲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/Linux 扫盲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Linux/Linux 扫盲.md"
+              }
+            }
+          },
+          {
+            "id": "375d163f0e180783",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,9 +151,18 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e86edf618d500a06",
-  "lastOpenFiles": []
+  "active": "28620b7ba08190a9",
+  "lastOpenFiles": [
+    "index.md",
+    "Linux/Linux 扫盲.md",
+    "Linux扫盲+ebcc05c8-1ff0-4998-aed9-601f6fd09d0e/image.md",
+    "Linux扫盲+ebcc05c8-1ff0-4998-aed9-601f6fd09d0e",
+    "Linux/Linux扫盲+ebcc05c8-1ff0-4998-aed9-601f6fd09d0e.md",
+    "Linux/未命名.md",
+    "Linux"
+  ]
 }
