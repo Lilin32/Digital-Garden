@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安全笔记/信息收集.md",
+                "file": "安全笔记/逻辑漏洞.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "安全笔记/信息收集.md",
+                "file": "安全笔记/逻辑漏洞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "安全笔记/信息收集.md",
+                "file": "安全笔记/逻辑漏洞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "安全笔记/信息收集.md"
+                "file": "安全笔记/逻辑漏洞.md"
               }
             }
           },
@@ -157,9 +157,10 @@
   },
   "active": "645d636a7be270b0",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "Linux/Linux 扫盲.md",
     "安全笔记/信息收集.md",
+    "安全笔记/逻辑漏洞.md",
+    "Linux/Linux 扫盲.md",
+    "未命名.canvas",
     "安全笔记",
     "index.md",
     "Linux扫盲+ebcc05c8-1ff0-4998-aed9-601f6fd09d0e/image.md",
