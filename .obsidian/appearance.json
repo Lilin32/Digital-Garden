@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "custom-admonitions.250d17"
+  ]
 }
