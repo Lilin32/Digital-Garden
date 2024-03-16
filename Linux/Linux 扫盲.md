@@ -1,12 +1,12 @@
----  
+---
 title: Linux 扫盲  
 tags:  
   - Linux
 creation date: 2024-03-14  
 done: true  
----  
+---
 # 1. kali 虚拟机初始配置  
----  
+---
 ## 1.1 修改 root 用户密码  
 ```Shell  
 sudo passwd root  
@@ -98,7 +98,7 @@ update-rc.d ssh enable
 ```  
 
 # 2. Linux 目录结构  
----  
+---
 可以通过`apt install tree`下载软件，在`/`路径下执行`tree -d -L 1`（`-d`：仅查看文件夹；`-L`：设置层级）  
 
 ![Linux 目录结构](https://image.yiscook.top/blog-image/202403150205018.png)  
@@ -120,7 +120,7 @@ update-rc.d ssh enable
 | /var      | 存放不断扩充的内容，习惯将经常被修改的目录或文件存放到该目录下，例如日志等                    |  
 
 # 3. Linux 文件属性  
----  
+---
 
 | 文件类型 | 属主权限  | 属组权限  | 其他用户权限 |  
 | :--: | :---: | :---: | :----: |  
@@ -134,7 +134,7 @@ update-rc.d ssh enable
 `chown`：需要使用管理员权限才能执行此命令，非管理员用户可以使用 `chgrp` 来设置关联组  
 
 # 4. Linux 常用基本命令  
----  
+---
 
 | 命令        | 描述                     | 用法                                                                                                          |  
 | --------- | ---------------------- | ----------------------------------------------------------------------------------------------------------- |  
@@ -145,5 +145,5 @@ update-rc.d ssh enable
 | **mv**    | 用来对文件或目录重新命名，或者将文件进行移动 | 如果将一个文件移到一个已经存在的目标文件中，则目标文件的内容将会被覆盖。  <br>`mv`类似文件“搬家”，文件个数并未增加；`cp`对文件进行复制，文件个数增加。                         |  
 
 # 5. Vim 编辑器  
----  
+---
 [GitHub - HanielF/VimTutor: VimTutor 中英对照版，给所有想入门Vim的Vimer](https://github.com/HanielF/VimTutor)  
