@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安全笔记/web安全/5. 文件包含漏洞.md",
+                "file": "安全笔记/web安全/1. 信息收集.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "安全笔记/web安全/5. 文件包含漏洞.md",
+                "file": "安全笔记/web安全/1. 信息收集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "安全笔记/web安全/5. 文件包含漏洞.md",
+                "file": "安全笔记/web安全/1. 信息收集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "安全笔记/web安全/5. 文件包含漏洞.md"
+                "file": "安全笔记/web安全/1. 信息收集.md"
               }
             }
           },
@@ -166,10 +166,10 @@
   },
   "active": "c80f1212d8066dfb",
   "lastOpenFiles": [
+    "安全笔记/web安全/2. 逻辑漏洞.md",
+    "安全笔记/web安全/3. XSS-跨站脚本攻击.md",
     "安全笔记/web安全/4. 文件上传漏洞.md",
     "安全笔记/web安全/5. 文件包含漏洞.md",
-    "安全笔记/web安全/3. XSS-跨站脚本攻击.md",
-    "安全笔记/web安全/2. 逻辑漏洞.md",
     "安全笔记/web安全/1. 信息收集.md",
     "安全笔记/信息收集.md",
     "安全笔记/逻辑漏洞.md",
