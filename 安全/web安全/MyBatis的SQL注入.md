@@ -3,6 +3,7 @@ title: MyBatis的SQL注入
 tags:
   - web安全
   - SQL注入
+  - Java
 creation date: 2024-03-24
 done:
 ---
