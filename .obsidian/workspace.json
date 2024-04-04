@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安全/常见敏感信息路径.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "安全/常见敏感信息路径.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "安全/常见敏感信息路径.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "安全/常见敏感信息路径.md"
+                "file": "index.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "a464cb292a33c19d",
   "lastOpenFiles": [
+    "安全/常见敏感信息路径.md",
     "安全/web安全/XXE-XML 外部实体注入攻击.md",
     "安全/web安全/XSS-跨站脚本攻击.md",
     "安全/web安全/SSRF-服务端请求伪造.md",
@@ -184,7 +185,6 @@
     "安全.md",
     "安全/渗透测试/管理工具信息泄露/svn 泄露.md",
     "安全/渗透测试/管理工具信息泄露",
-    "安全/常见敏感信息路径.md",
     "2024-03-24.md",
     "网络/JSON Web Token.md",
     "安全/渗透测试",
