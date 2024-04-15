@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb5a241337841b0a",
+        "id": "7e363e8754705723",
         "type": "tabs",
         "children": [
           {
-            "id": "e8b2ed5530c2bd75",
+            "id": "5268127420f7078a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安全/渗透测试/管理工具信息泄露/DS_Store 泄露.md",
+                "file": "安全/渗透测试/未授权访问漏洞/Redis 未授权访问漏洞.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "安全/渗透测试/管理工具信息泄露/DS_Store 泄露.md",
+                "file": "安全/渗透测试/未授权访问漏洞/Redis 未授权访问漏洞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "安全/渗透测试/管理工具信息泄露/DS_Store 泄露.md",
+                "file": "安全/渗透测试/未授权访问漏洞/Redis 未授权访问漏洞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "安全/渗透测试/管理工具信息泄露/DS_Store 泄露.md"
+                "file": "安全/渗透测试/未授权访问漏洞/Redis 未授权访问漏洞.md"
               }
             }
           },
@@ -164,20 +164,23 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "e8b2ed5530c2bd75",
+  "active": "5268127420f7078a",
   "lastOpenFiles": [
-    "index.md",
-    "安全/渗透测试/管理工具信息泄露/DS_Store 泄露.md",
     "安全/web安全/SQL注入.md",
+    "安全/渗透测试/未授权访问漏洞/Redis 未授权访问漏洞.md",
+    "index.md",
+    "安全/常见敏感信息路径.md",
+    "安全/web安全/RCE-命令执行漏洞.md",
+    "Linux/Linux 扫盲.md",
+    "安全/渗透测试/未授权访问漏洞",
+    "安全/渗透测试/管理工具信息泄露/DS_Store 泄露.md",
     "安全/web安全/文件上传漏洞.md",
     "安全/web安全/文件包含漏洞.md",
     "安全/渗透测试/管理工具信息泄露/git 泄露.md",
     "安全/渗透测试/管理工具信息泄露/svn 泄露.md",
-    "安全/常见敏感信息路径.md",
     "安全/web安全/XXE-XML 外部实体注入攻击.md",
     "安全/web安全/XSS-跨站脚本攻击.md",
     "安全/web安全/SSRF-服务端请求伪造.md",
-    "安全/web安全/RCE-命令执行漏洞.md",
     "安全/web安全/MyBatis的SQL注入.md",
     "安全/web安全/CSRF-跨站请求伪造.md",
     "安全/web安全/信息收集.md",
